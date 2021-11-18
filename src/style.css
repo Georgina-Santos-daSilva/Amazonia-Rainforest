@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(38, 165, 123);
+
+  font-family: "Josefin Sans", sans-serif;
+  margin: 60px auto;
+  max-width: 1000px;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+}
+
+p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: rgb(4, 9, 85);
+}
+
+.amazonia-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
